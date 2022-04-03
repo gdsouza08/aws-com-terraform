@@ -6,11 +6,11 @@ provider "aws" {
   region = "us-east-1"
 }
 
-resource "aws_s3_bucket" "my-bucket" {
-  bucket = "Bucket-udemy-guilherme"
+resource "aws_s3_bucket" "bucket-udemy-guilherme" {
+  bucket = "bucket-udemy-guilherme"
 
   tags = {
-      Name = "my-bucket"
+      Name = "bucket-udemy-guilherme"
       Environment = "Dev"
   }
 }
