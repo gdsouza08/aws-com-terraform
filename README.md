@@ -1,6 +1,9 @@
 # link de download do terraform
 https://www.terraform.io/
 
+# como instalar CLI terraform
+https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+
 # aws-com-terraform
 
 # subindo recursos através do terraform CLI com:
