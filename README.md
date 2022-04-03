@@ -1,3 +1,6 @@
+# link de download do terraform
+https://www.terraform.io/
+
 # aws-com-terraform
 
 # subindo recursos através do terraform CLI com:
